@@ -1,0 +1,794 @@
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 0
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/Interface.uasset" 1
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/PhysMat/Stone.uasset" 2
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Color_Atlas.uasset" 3
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/TrueMat.uasset" 4
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/MoveMesh.uasset" 5
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/MoveMesh_Blueprint.uasset" 6
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Platform.uasset" 7
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 8
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Mesh/Ch36_nonPBR_Skeleton.uasset" 9
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Braced_Hang_To_Crouch.uasset" 10
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Climbing.uasset" 11
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Climbing_Montage.uasset" 12
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Crouched_To_Standing.uasset" 13
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Crouched_To_Standing__1_.uasset" 14
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Crouched_To_Standing__1__Montage.uasset" 15
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Floating.uasset" 16
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Freehang_Climb.uasset" 17
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Freehang_Climb_Montage.uasset" 18
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Hanging_Idle.uasset" 19
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Idle_To_Braced_Hang.uasset" 20
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_Skeleton.uasset" 21
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Braced_Hang_To_Crouch.uasset" 22
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Crouched_To_Standing.uasset" 23
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Crouched_To_Standing__1_.uasset" 24
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Floating.uasset" 25
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Freehang_Climb.uasset" 26
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Hanging_Idle.uasset" 27
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Idle_To_Braced_Hang.uasset" 28
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Jump.uasset" 29
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Jumping.uasset" 30
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Running_Jump.uasset" 31
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Run_To_Stop.uasset" 32
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Standard_Run.uasset" 33
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/bodyy1.uasset" 34
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Mesh/Ch36_Body.uasset" 35
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Mesh/Ch36_nonPBR_PhysicsAsset.uasset" 36
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Mesh/Ch36_nonPBR.uasset" 37
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/grass.uasset" 38
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/grass_texture.uasset" 39
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/materialPlayerTracker.uasset" 40
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/player_Tracker.uasset" 41
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/Texture/tNoise.uasset" 42
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/DefaultAtt.uasset" 43
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Door.uasset" 44
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/LastGate.uasset" 45
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/PushRock.uasset" 46
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/WalkGrass_01.uasset" 47
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/WalkGrass_02.uasset" 48
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_01.uasset" 49
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_02.uasset" 50
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_03.uasset" 51
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_04.uasset" 52
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_05.uasset" 53
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_06.uasset" 54
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_07.uasset" 55
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_08.uasset" 56
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Materials_VFX/Fire.uasset" 57
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Textures/FireTexture.uasset" 58
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Widget/2.uasset" 59
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Widget/5a5ec4c0c23ee2ff.uasset" 60
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Camera.uasset" 61
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Falling_Idle.uasset" 62
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Falling_To_Landing.uasset" 63
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Jumping_Down.uasset" 64
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Jumping_Up.uasset" 65
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Idle.uasset" 66
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Run_Forward.uasset" 67
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Idle_Run.uasset" 68
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Male_Action_Pose.uasset" 69
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Pull_Heavy_Object.uasset" 70
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Pushing.uasset" 71
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Push.uasset" 72
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Textures/Noise00.uasset" 73
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Materials_VFX/Smoke.uasset" 74
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/VectorFromFloat.uasset" 75
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraRandomnessMode.uasset" 76
+"../../Plugins/FX/Niagara/Content/Functions/GetRandomInfo.uasset" 77
+"../../Plugins/FX/Niagara/Content/Functions/RandomRangeFloat.uasset" 78
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 79
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedVector.uasset" 80
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 81
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 82
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_EmitterStateOptions.uasset" 83
+"../../Plugins/FX/Niagara/Content/Enums/ENiagara_InfiniteLoopDuration.uasset" 84
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterLifeCycleMode.uasset" 85
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraEmitterScalabilityMode_Limited.uasset" 86
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExecutionStateManagement.uasset" 87
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraInactiveMode.uasset" 88
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterState.uasset" 89
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnBurst_Instantaneous.uasset" 90
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/ApplyInitialForces.uasset" 91
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 92
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/SimulationPosition.uasset" 93
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 94
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Initialization/InitializeParticle.uasset" 95
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraCoordinateSpace.uasset" 96
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformBase.uasset" 97
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/TransformVector.uasset" 98
+"../../Plugins/FX/Niagara/Content/Functions/Math/RemapValueRange.uasset" 99
+"../../Plugins/FX/Niagara/Content/Functions/PolarToCartesianCoordinates.uasset" 100
+"../../Plugins/FX/Niagara/Content/Functions/RandomVectorInCone.uasset" 101
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/FindQuatBetween.uasset" 102
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyVectorWithQuaternion.uasset" 103
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Velocity/AddVelocityInCone.uasset" 104
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 105
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/Drag.uasset" 106
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/ParticleState.uasset" 107
+"../../Plugins/FX/Niagara/Content/Modules/Update/Material/DynamicMaterialParameters.uasset" 108
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraMeshTransforms.uasset" 109
+"../../Plugins/FX/Niagara/Content/Modules/Update/Orientation/V2/MeshRotationForce.uasset" 110
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/ScaleMeshSize.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 112
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 113
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 114
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 115
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Models/Icosphere.uasset" 116
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/NiagaraEmmiter/Smoke_NE.uasset" 117
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 118
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraSystemInactiveMode.uasset" 119
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemState.uasset" 120
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/NiagaraSystem/Smoke_Small_NS.uasset" 121
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/Walk_Cue.uasset" 122
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Walk/WalkGrass_Cue.uasset" 123
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/Animation/Girl_AimBP.uasset" 124
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/minion_Skeleton.uasset" 125
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Animation/Happy_Walk.uasset" 126
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Animation/Standing_W_Briefcase_Idle.uasset" 127
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Animation/Idle_run.uasset" 128
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/Animation/Minion_NP_animation.uasset" 129
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/AIController_master.uasset" 130
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/Texture/decal.uasset" 131
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/Decal.uasset" 132
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/minion_minion_BaseColor.uasset" 133
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/minion_minion_Emissive.uasset" 134
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Master_minion.uasset" 135
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Master_minion_Inst.uasset" 136
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/minion_PhysicsAsset.uasset" 137
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/minion.uasset" 138
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Data/Ai/ClickShow.uasset" 139
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/AI_master.uasset" 140
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 141
+"../../../Engine/Content/BasicShapes/Cube.uasset" 142
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/Spawn-Master.uasset" 143
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_body_BaseColor.uasset" 144
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_body_Emissive.uasset" 145
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/Master.uasset" 146
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_coat_BaseColor.uasset" 147
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/Master_Inst.uasset" 148
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/coat_Skeleton.uasset" 149
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/coat.uasset" 150
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/bodyy_Inst.uasset" 151
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_hair_BaseColor.uasset" 152
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/GGJ_hair.uasset" 153
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_head_BaseColor.uasset" 154
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/GGJ_head.uasset" 155
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_horns_BaseColor.uasset" 156
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/GGJ_horn.uasset" 157
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl_PhysicsAsset.uasset" 158
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_mesh/game_jam_girl.uasset" 159
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/PlayerCharacter.uasset" 160
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Climbing.uasset" 161
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Girl_animation/Climbing_Montage.uasset" 162
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Data/Spawn/Show.uasset" 163
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/RespawnActor.uasset" 164
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Widgets/PlayerWidget.uasset" 165
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/MyPlayerController.uasset" 166
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Data/MyLabr/MyLabr.uasset" 167
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/MinionunderRock.uasset" 168
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Widgets/UseWidget.uasset" 169
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube173.uasset" 170
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/PushActor.uasset" 171
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Level_01.uasset" 172
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/PushActor_Child.uasset" 173
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Falling_Idle.uasset" 174
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Falling_To_Landing.uasset" 175
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Jumping_Down.uasset" 176
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Jumping_Up.uasset" 177
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Idle.uasset" 178
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Standard_Run.uasset" 179
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Idle_run.uasset" 180
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Male_Action_Pose.uasset" 181
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Pull_Heavy_Object.uasset" 182
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Pushing.uasset" 183
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Characters/Animation/Push.uasset" 184
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/Animation/MyAnim_BP.uasset" 185
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Data/Event/Task_enum.uasset" 186
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Widgets/Texture/4d78d7232a7bac60.uasset" 187
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Widgets/CursorWidget.uasset" 188
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Widgets/Texture/cbc5a88fef26491b.uasset" 189
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube003.uasset" 190
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube166.uasset" 191
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube169.uasset" 192
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube174.uasset" 193
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube181.uasset" 194
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/TestAtlas2.uasset" 195
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Basic_Wall.uasset" 196
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_400x300.uasset" 197
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_400x400.uasset" 198
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_500x500.uasset" 199
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 200
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 201
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Collapse01.uasset" 202
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Collapse02.uasset" 203
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Explosion01.uasset" 204
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Explosion02.uasset" 205
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Fire01.uasset" 206
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Fire_Sparks01.uasset" 207
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Light01.uasset" 208
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Light01_Cue.uasset" 209
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Light02.uasset" 210
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Light02_Cue.uasset" 211
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Smoke01.uasset" 212
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Starter_Birds01.uasset" 213
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Starter_Music01.uasset" 214
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Starter_Wind05.uasset" 215
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Starter_Wind06.uasset" 216
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Steam01.uasset" 217
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Explosion_Cue.uasset" 218
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Burst_M.uasset" 219
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_Burst.uasset" 220
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 221
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 222
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 223
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 224
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 225
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 226
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 227
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 228
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/P_Explosion.uasset" 229
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 230
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 231
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 232
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Bush_D.uasset" 233
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Bush_N.uasset" 234
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Bush.uasset" 235
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Bush.uasset" 236
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Chair_M.uasset" 237
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Chair_N.uasset" 238
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Chair.uasset" 239
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Couch.uasset" 240
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Glass.uasset" 241
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Door_M.uasset" 242
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Door_N.uasset" 243
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Door.uasset" 244
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Door.uasset" 245
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 246
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 247
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 249
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 250
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 251
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_RockMesh_M.uasset" 252
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_RockMesh_N.uasset" 253
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Rock.uasset" 254
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Rock.uasset" 255
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Shelf_M.uasset" 256
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Shelf_N.uasset" 257
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Shelf.uasset" 258
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Shelf.uasset" 259
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Basic_Floor.uasset" 260
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Stairs.uasset" 261
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Cone.uasset" 262
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 263
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 264
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Pipe.uasset" 265
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 266
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 267
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Torus.uasset" 268
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Trim.uasset" 269
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 270
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 271
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 272
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Tube.uasset" 273
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 274
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 275
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 276
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 277
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 278
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 279
+"../../../Engine/Content/BasicShapes/Cone.uasset" 280
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 281
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 282
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 283
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 284
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 285
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 286
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 291
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 292
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 293
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 294
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 295
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 297
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 298
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 299
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 300
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 301
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 302
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 303
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 304
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 305
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 306
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 307
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 308
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 309
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 310
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 311
+"../../../Engine/Content/EditorResources/S_Note.uasset" 312
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 313
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 314
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 315
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 316
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 317
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 318
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 319
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 320
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 321
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 322
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 323
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 324
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 325
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 326
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 327
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 328
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 329
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 330
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 331
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 332
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 333
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 334
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 335
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 336
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 337
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 338
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 339
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 340
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 341
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 342
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 343
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 344
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 345
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 346
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 347
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 348
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 349
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 350
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 351
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 352
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 353
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 354
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 355
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 356
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 357
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 358
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 360
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 361
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 363
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 364
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 365
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 366
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 367
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 368
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 369
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 370
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 371
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 372
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 373
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 374
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 375
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 376
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 377
+"../../../Engine/Content/EngineResources/Black.uasset" 378
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 379
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 380
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 381
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 382
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 383
+"../../../Engine/Content/EngineSounds/Master.uasset" 384
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 385
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 386
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 387
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 388
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 389
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 390
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 391
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 392
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 393
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 394
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 395
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 396
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 397
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 398
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 399
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 400
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 401
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 402
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 403
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 404
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 405
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 406
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 407
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 408
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 409
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 410
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 411
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 412
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 413
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 414
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 415
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 416
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 417
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 418
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 419
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 420
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 421
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 422
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 423
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 424
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 425
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 426
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 427
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 428
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 429
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 430
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 431
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraBooleanLogicOps.uasset" 432
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraExpansionMode.uasset" 433
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraOrientationAxis.uasset" 434
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 435
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 436
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 437
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 438
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 439
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 440
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 441
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/WaterSplash.uasset" 442
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/WaterMill/Textures/water/waterEffects_SRM.uasset" 443
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/WaterMill/Materials/BaseMaterials/waterSplash_base.uasset" 444
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/WaterMill/Materials/water/waterSplash_m1.uasset" 445
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/WaterMill/FX/WaterFall_splash.uasset" 446
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/DeathBox.uasset" 447
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_331.uasset" 448
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/RockDoor.uasset" 449
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_330.uasset" 450
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube010.uasset" 451
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube167.uasset" 452
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Door_master.uasset" 453
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Door_master_Child.uasset" 454
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Platform/platform_spawner_BaseColor.uasset" 455
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Platform/platform_spawner_Emissive.uasset" 456
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Platform/Master_material.uasset" 457
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Platform/platform.uasset" 458
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/SwitchInterface.uasset" 459
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Dude_events.uasset" 460
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/Anya.uasset" 461
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/Egor.uasset" 462
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/Jeka.uasset" 463
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/AI/Lera.uasset" 464
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Totem/totem_BaseColor.uasset" 465
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Totem/Totem_mat.uasset" 466
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/NiagaraSystem/Smoke_NS.uasset" 467
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Totem/Emmisive.uasset" 468
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Minion/Totem/totem.uasset" 469
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/MinionSpawn.uasset" 470
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/MinionSpawner.uasset" 471
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Character/MyGameMode.uasset" 472
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 473
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 474
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 475
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 476
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 477
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/grasstexture.uasset" 478
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/Wave.uasset" 479
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/Grass_mat.uasset" 480
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/Grass_mat_Inst.uasset" 481
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/Grass3.uasset" 482
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/GrassFolg.uasset" 483
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Maps/Empty_BuiltData.uasset" 484
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/PhysMat/Grass.uasset" 485
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/NewMaterial.uasset" 486
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/HornColor.uasset" 487
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/HornColor_Inst.uasset" 488
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/Water.uasset" 489
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Materials/Water_Inst.uasset" 490
+"../../../Engine/Content/BasicShapes/Plane.uasset" 491
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 492
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_323.uasset" 493
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_324.uasset" 494
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_325.uasset" 495
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube176.uasset" 496
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cylinder014.uasset" 497
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Pillar_50x500.uasset" 498
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Maps/Empty.umap" 499
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube178.uasset" 500
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Big.uasset" 501
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Widgets/Function/MyLybr.uasset" 502
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/SwitchAdv.uasset" 503
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/TriggerMaster.uasset" 504
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/1_trigger.uasset" 505
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/2_push.uasset" 506
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Sound/Elevator.uasset" 507
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_303.uasset" 508
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_304.uasset" 509
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_305.uasset" 510
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube168.uasset" 511
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Elevator_master.uasset" 512
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/EventMaster.uasset" 513
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/JustTrigger.uasset" 514
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/BP/Actors/Last_sceme_trigger.uasset" 515
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/RotateMesh.uasset" 516
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/RotateMesh_Blueprint.uasset" 517
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/Grass2.uasset" 518
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Grass/GrassFolg1.uasset" 519
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Maps/FirstLevel_BuiltData.uasset" 520
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Textures/FireTexture2.uasset" 521
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Textures/FireTextureAlpha.uasset" 522
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Textures/FireTextureTarga.uasset" 523
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Materials_VFX/rimeFire.uasset" 524
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Materials_VFX/rimeFire_Inst.uasset" 525
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Boat/Master.uasset" 526
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Boat/Sketchfab_2017_11_01_21_06_20.uasset" 527
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/SpeedTree/SpeedTreeColorVariation.uasset" 528
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/T_leaf_A.uasset" 529
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/leaf.uasset" 530
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/leaf_Inst.uasset" 531
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/trunk.uasset" 532
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/trunk_Inst.uasset" 533
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/bush_01.uasset" 534
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/bush_02.uasset" 535
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/tree_01.uasset" 536
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/tree_02.uasset" 537
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/tree_03.uasset" 538
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Trees/tree_04.uasset" 539
+"../../../Engine/Content/EngineMaterials/OrientParticle.uasset" 540
+"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset" 541
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 542
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 543
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Materials_VFX/M_WindLines.uasset" 544
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/Cascade/P_ParticleLines.uasset" 545
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube006.uasset" 546
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube083.uasset" 547
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube161.uasset" 548
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_293.uasset" 549
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_294.uasset" 550
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_295.uasset" 551
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube162.uasset" 552
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube163.uasset" 553
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube164.uasset" 554
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube165.uasset" 555
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube170.uasset" 556
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube171.uasset" 557
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube172.uasset" 558
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_314.uasset" 559
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_315.uasset" 560
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_316.uasset" 561
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_317.uasset" 562
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_318.uasset" 563
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_319.uasset" 564
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/Material_320.uasset" 565
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube175.uasset" 566
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cube177.uasset" 567
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cylinder012.uasset" 568
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cylinder013.uasset" 569
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Models_Modular/SM_Cylinder015.uasset" 570
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/SFX/365873__jandre160108__grassy-field-ambience.uasset" 571
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/SFX/365873__jandre160108__grassy-field-ambience_Cue.uasset" 572
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Maps/FirstLevel.umap" 573
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 574
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 575
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 576
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 577
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 578
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 579
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 580
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 581
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 582
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SystemLocation.uasset" 583
+"../../Plugins/FX/Niagara/Content/Enums/ENiagaraScaleColorMode.uasset" 584
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/ScaleColor.uasset" 585
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Plane.uasset" 586
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/NiagaraSystem/Fire_NS.uasset" 587
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/NiagaraSystem/NewNiagaraSystem.uasset" 588
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/VFX/NiagaraSystem/Smoke_NE.uasset" 589
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Assets/Temp/SM_Cube082.uasset" 590
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/Maps/Jeka_Test.umap" 591
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 592
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 593
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 594
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 595
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 596
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 597
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 598
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 599
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 600
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 601
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 602
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 603
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 604
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_AssetPlatform.uasset" 605
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 606
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 607
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 608
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 609
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 610
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 611
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 612
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 613
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Maps/Advanced_Lighting.umap" 614
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 615
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_MacroVariation.uasset" 616
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 617
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 618
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 619
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 620
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 621
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Copper.uasset" 622
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Statue_M.uasset" 623
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Statue_N.uasset" 624
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 625
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Floor_400x400.uasset" 626
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 627
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Chair.uasset" 628
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Statue.uasset" 629
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Statue.uasset" 630
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_TableRound_M.uasset" 631
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_TableRound_N.uasset" 632
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_TableRound.uasset" 633
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_TableRound.uasset" 634
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Maps/Minimal_Default.umap" 635
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Fire01_Cue.uasset" 636
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 637
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 638
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 639
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Water_N.uasset" 640
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 641
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 642
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/P_Fire.uasset" 643
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 644
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Smoke01_Cue.uasset" 645
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/P_Smoke.uasset" 646
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 647
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 648
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Spark_Core.uasset" 649
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_Spark.uasset" 650
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/P_Sparks.uasset" 651
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 652
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Steam01_Cue.uasset" 653
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/P_Steam_Lit.uasset" 654
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 655
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Lamp_M.uasset" 656
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Lamp_N.uasset" 657
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Lamp.uasset" 658
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 659
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 660
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 661
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 662
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 663
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 664
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 665
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 666
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 667
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 668
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 669
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 670
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 671
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 672
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 673
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 674
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 675
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 676
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 677
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 678
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 679
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 680
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 681
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 682
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 683
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 684
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 685
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 686
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 687
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 688
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 689
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 690
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 691
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 692
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 693
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 694
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Gradinet_01.uasset" 695
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 696
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 697
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 698
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 699
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 700
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 701
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 702
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 703
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 704
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 705
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 706
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 707
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 708
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 709
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 710
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 711
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 712
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 713
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 714
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 715
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 716
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 717
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Ground_Grass.uasset" 718
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 719
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 720
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 721
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 722
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 723
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Ground_Moss.uasset" 724
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 725
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 726
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Gold.uasset" 727
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 728
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Rust.uasset" 729
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 730
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 731
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Metal_Steel.uasset" 732
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 733
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 734
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 735
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 736
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 737
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 738
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 739
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 740
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Rock_Slate.uasset" 741
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 742
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 743
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 744
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 745
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 746
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 747
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 748
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 749
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 750
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 751
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 752
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Tech_Panel.uasset" 753
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Water_Lake.uasset" 754
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Water_M.uasset" 755
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Water_Ocean.uasset" 756
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 757
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 758
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 759
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 760
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 761
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 762
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 763
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 764
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Wood_Oak.uasset" 765
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 766
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 767
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Wood_Pine.uasset" 768
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 769
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 770
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 771
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_400x200.uasset" 772
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 773
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 774
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Collapse_Cue.uasset" 775
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 776
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 777
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 778
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 779
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/MaterialSphere.uasset" 780
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Frame_M.uasset" 781
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Textures/T_Frame_N.uasset" 782
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/Materials/M_Frame.uasset" 783
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_CornerFrame.uasset" 784
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_DoorFrame.uasset" 785
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_GlassWindow.uasset" 786
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_PillarFrame.uasset" 787
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_PillarFrame300.uasset" 788
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Props/SM_WindowFrame.uasset" 789
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Cube.uasset" 790
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 791
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Shapes/Shape_Sphere.uasset" 792
+"C:/Users/Maksimov/Documents/Unreal Projects/GGJ2021/Content/StarterContent/Maps/StarterMap.umap" 793
